@@ -1,0 +1,14 @@
+{
+  "name": "03_sending-html-and-json-as-res",
+  "version": "1.0.0",
+  "description": "Sending HTML and JSON as Response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yogesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
